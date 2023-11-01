@@ -25,7 +25,9 @@
 				"samuelcolvin.jinjahtml",
 				"tamasfe.even-better-toml",
 				"innoverio.vscode-dbt-power-user",
-				"mechatroner.rainbow-csv"
+				"mechatroner.rainbow-csv",
+				"ms-toolsai.jupyter",
+				"GitHub.copilot"
 			],
 			"settings": {
 				"python.defaultInterpreterPath": ".venv/bin/python",

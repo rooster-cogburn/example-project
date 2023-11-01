@@ -1,3 +1,5 @@
 logs
 *.duckdb*
 **/.user.yml
+.env
+data
