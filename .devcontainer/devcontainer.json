@@ -41,15 +41,6 @@
 					"https://raw.githubusercontent.com/dbt-labs/dbt-jsonschema/main/schemas/dbt_project.json": "file:///workspaces/example-project/transform/dbt_project.yml"
 				}
 			}
-		},
-		"codespaces": {
-			"repositories": {
-				"wustl-data/rooster-dbt": {
-					"permissions": {
-						"contents": "write"
-					}
-				}
-			}
 		}
 	}
 }
